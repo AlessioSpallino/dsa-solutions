@@ -1,6 +1,6 @@
 # LeetCode DSA Solutions
 
-This repository contains my solutions to LeetCode problems, organized by topic. Each file includes the solution and some test cases that can be run locally with Node.js.
+This repository contains my solutions to DSA problems, organized by topic. Each file includes the solution and can be run locally with Node.js.
 
 ## Progress
 | Problem Name | Difficulty | Topic  | Status  | Solution                        |

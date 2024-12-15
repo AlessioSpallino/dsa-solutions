@@ -9,3 +9,4 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Contains_Duplicate.js) |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Valid_Anagram.js) |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Group_Anagrams.js) |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/binary_tree_level_order_traversal.js) |

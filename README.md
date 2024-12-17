@@ -13,7 +13,7 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 6. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Top_K_Frequent_Elements.js)
 
 ### Trees
-7. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/Binary_Tree_Level_Order_Traversal.js)
-8. [Lowest Common Ancestor In Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-in-binary-search-tree) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/Lowest_Common_Ancestor_In_Binary_Search_Tree.js)
-9. [Same Binary Tree](https://leetcode.com/problems/same-binary-tree) | 🟢 Easy       | Trees | ✅ Solved | [Solution](./Trees/Same_Binary_Tree.js)
-10. [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy       | Trees | ✅ Solved | [Solution](./Trees/Subtree_Of_Another_Tree.js)
+1. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/Binary_Tree_Level_Order_Traversal.js)
+2. [Lowest Common Ancestor In Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-in-binary-search-tree) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/Lowest_Common_Ancestor_In_Binary_Search_Tree.js)
+3. [Same Binary Tree](https://leetcode.com/problems/same-binary-tree) | 🟢 Easy       | Trees | ✅ Solved | [Solution](./Trees/Same_Binary_Tree.js)
+4. [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy       | Trees | ✅ Solved | [Solution](./Trees/Subtree_Of_Another_Tree.js)

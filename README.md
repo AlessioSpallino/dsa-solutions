@@ -12,6 +12,8 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Search_In_Rotated_Sorted_Array.js) |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Top_K_Frequent_Elements.js) |
 |  |        |  |  |  |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy       | Stack | ✅ Solved | [Solution](./Stack/Valid_Parentheses.py) |
+|  |        |  |  |  |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/Binary_Tree_Level_Order_Traversal.js) |
 | [Lowest Common Ancestor In Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-in-binary-search-tree) | 🟡 Medium       | Trees | ✅ Solved | [Solution](./Trees/Lowest_Common_Ancestor_In_Binary_Search_Tree.js) |
 | [Same Binary Tree](https://leetcode.com/problems/same-binary-tree) | 🟢 Easy       | Trees | ✅ Solved | [Solution](./Trees/Same_Binary_Tree.js) |

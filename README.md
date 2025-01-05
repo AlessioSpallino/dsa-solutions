@@ -21,3 +21,4 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | 🟢 Easy       | Heap | ✅ Solved | [Solution](./Heap/Kth_Largest_Element_in_a_Stream.py) |
 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | 🟢 Easy       | Heap | ✅ Solved | [Solution](./Heap/Last_Stone_Weight.py) |
 | [K_Closest_Point_To_Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/K_Closest_Point_To_Origin.py) |
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/Kth_Largest_Element_in_an_Array.py) |

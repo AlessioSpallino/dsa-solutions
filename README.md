@@ -18,3 +18,4 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy       | Trees | ✅ Solved | [Solution](./Trees/Subtree_Of_Another_Tree.js) |
 |  |        |  |  |  |
 | [Reorganize String](https://leetcode.com/problems/reorganize-string) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/Reorganize_String.py) |
+| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | 🟢 Easy       | Heap | ✅ Solved | [Solution](./Heap/Kth_Largest_Element_in_a_Stream.py) |

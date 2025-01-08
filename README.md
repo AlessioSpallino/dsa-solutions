@@ -25,3 +25,5 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [K_Closest_Point_To_Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/K_Closest_Point_To_Origin.py) |
 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/Kth_Largest_Element_in_an_Array.py) |
 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/Task_Scheduler.py) |
+|  |        |  |  |  |
+| [Subsets](https://leetcode.com/problems/subsets) | 🟡 Medium       | Backtracking | ✅ Solved | [Solution](./Backtracking/Subsets.py) |

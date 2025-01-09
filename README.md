@@ -11,6 +11,7 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Group_Anagrams.js) |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Search_In_Rotated_Sorted_Array.js) |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Top_K_Frequent_Elements.js) |
+| [Products of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Products_of_Array_Except_Self.py) |
 |  |        |  |  |  |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy       | Stack | ✅ Solved | [Solution](./Stack/Valid_Parentheses.py) |
 |  |        |  |  |  |

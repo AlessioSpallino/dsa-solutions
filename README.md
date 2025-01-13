@@ -28,3 +28,4 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | 🟡 Medium       | Heap | ✅ Solved | [Solution](./Heap/Task_Scheduler.py) |
 |  |        |  |  |  |
 | [Subsets](https://leetcode.com/problems/subsets) | 🟡 Medium       | Backtracking | ✅ Solved | [Solution](./Backtracking/Subsets.py) |
+| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | 🟡 Medium       | Backtracking | ✅ Solved | [Solution](./Backtracking/Restore_IP_Addresses.py) |

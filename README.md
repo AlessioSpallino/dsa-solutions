@@ -10,6 +10,7 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Valid_Anagram.js) |
 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Kids_With_the_Greatest_Number_of_Candies.py) |
 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Move_Zeros.py) |
+| [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Max_Number_of_K-Sum_Pairs.py) |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Group_Anagrams.js) |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Search_In_Rotated_Sorted_Array.js) |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Top_K_Frequent_Elements.js) |

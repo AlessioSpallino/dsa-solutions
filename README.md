@@ -8,6 +8,7 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Two_Sum.js) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Contains_Duplicate.js) |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Valid_Anagram.js) |
+| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | 🟢 Easy       | Arrays | ✅ Solved | [Solution](./Arrays/Kids_With_the_Greatest_Number_of_Candies.py) |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Group_Anagrams.js) |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Search_In_Rotated_Sorted_Array.js) |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Top_K_Frequent_Elements.js) |

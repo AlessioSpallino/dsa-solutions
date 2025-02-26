@@ -16,6 +16,7 @@ This repository contains my solutions to DSA problems, organized by topic. Each 
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Search_In_Rotated_Sorted_Array.js) |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Top_K_Frequent_Elements.js) |
 | [Products of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Products_of_Array_Except_Self.py) |
+| [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | 🟡 Medium       | Arrays | ✅ Solved | [Solution](./Arrays/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py) |
 |  |        |  |  |  |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy       | Stack | ✅ Solved | [Solution](./Stack/Valid_Parentheses.py) |
 |  |        |  |  |  |
